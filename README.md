@@ -38,4 +38,4 @@ Edit the `vehicles` array near the bottom of `index.html` to change vehicle name
 - Login and registration
 - Admin dashboard
 - Real-time availability checks
-- Booking notifications
+-
