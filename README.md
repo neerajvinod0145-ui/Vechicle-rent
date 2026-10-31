@@ -4,7 +4,7 @@ A beginner-friendly frontend prototype for a bike and car sharing/rental website
 
 ## Features
 - Responsive home page
-- Bike and car listings
+- Bikes and cars listing
 - Search by vehicle name or type
 - Filter by Bikes or Cars
 - Booking form with date validation
