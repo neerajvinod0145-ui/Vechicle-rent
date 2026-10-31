@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+*.so
 
 # Virtual Environment
 venv/
@@ -31,7 +31,7 @@ staticfiles/
 # Operating System
 .DS_Store
 Thumbs.db
-desktop.ini
+
 
 # Testing and Coverage
 .coverage
